@@ -65,8 +65,8 @@ An interactive Tableau dashboard was built to explore:
 amazon-trust-signals-analysis
 │
 ├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
+│   ├── raw
+│   └── clean
 │
 ├── notebooks/
 │   └── exploratory_analysis.ipynb
@@ -134,4 +134,8 @@ Future development could extend this analysis by:
 
 ## Author
 
-Data analysis project developed as part of a data analytics bootcamp, focusing on marketplace analytics, e-commerce strategy, and data visualization.
+This project was completed as my final project after 9 weeks of technical hands-on Bootcamp about Data Analytics at Ironhack.
+
+Ngoc Ha Nguyen
+LinkedIn:
+https://www.linkedin.com/in/hannah-ngocha-nguyen
