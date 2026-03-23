@@ -7,6 +7,8 @@
 
 Author: Ngoc Ha Nguyen - [LinkedIn](https://www.linkedin.com/in/hannah-ngocha-nguyen)
 
+[Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ngoc.ha.nguyen1781/viz/amazon_best_sellers_dashboard/Dashboard1)
+
 ---
 
 ## The Question
